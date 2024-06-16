@@ -1,0 +1,153 @@
+# Ignore build output directories
+/bin
+/build
+/out
+/target
+/dist
+
+# Ignore IDE project files and directories
+/.idea
+*.iml
+*.ipr
+*.iws
+/.vscode
+/.project
+/.classpath
+/.settings
+
+# Ignore Maven or Gradle wrapper files
+/.mvn
+/.gradle
+/build.gradle
+/build.gradle.kts
+/settings.gradle
+/settings.gradle.kts
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+/hs_err_pid*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Java files
+*.class
+
+# Ignore packaged files
+*.jar
+*.war
+*.ear
+
+# Ignore test results
+/test-output
+/surefire-reports
+/failsafe-reports
+
+# Ignore application-specific files
+*.db
+*.h2.db
+*.mv.db
+*.trace.db
+
+# Ignore IDE and OS-specific configuration files
+/.factorypath
+/.recommenders
+/.springBeans
+/.tooling
+
+# Ignore dependency directories
+/lib
+/node_modules
+/bower_components
+
+# Ignore generated documentation
+/docs/api
+/docs/reference
+
+# Ignore other IDEs' specific files
+# Ignore build output directories
+/bin
+/build
+/out
+/target
+/dist
+
+# Ignore IDE project files and directories
+/.idea
+*.iml
+*.ipr
+*.iws
+/.vscode
+/.project
+/.classpath
+/.settings
+
+# Ignore Maven or Gradle wrapper files
+/.mvn
+/.gradle
+/build.gradle
+/build.gradle.kts
+/settings.gradle
+/settings.gradle.kts
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+/hs_err_pid*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Java files
+*.class
+
+# Ignore packaged files
+*.jar
+*.war
+*.ear
+
+# Ignore test results
+/test-output
+/surefire-reports
+/failsafe-reports
+
+# Ignore application-specific files
+*.db
+*.h2.db
+*.mv.db
+*.trace.db
+
+# Ignore IDE and OS-specific configuration files
+/.factorypath
+/.recommenders
+/.springBeans
+/.tooling
+
+# Ignore dependency directories
+/lib
+/node_modules
+/bower_components
+
+# Ignore generated documentation
+/docs/api
+/docs/reference
+
+# Ignore other IDEs' specific files
+/.idea/*
+/*.swp
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
